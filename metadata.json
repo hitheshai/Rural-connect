@@ -1,0 +1,6 @@
+{
+  "name": "RuralConnect",
+  "description": "RuralConnect is a modern, accessible mobile platform connecting rural residents, farmers, and service providers with healthcare, agricultural market rates, government schemes, local jobs, transportation, and emergency SOS services.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
